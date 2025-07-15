@@ -1,0 +1,7 @@
+tensorflow-macos
+tensorflow-metal
+opencv-python
+numpy
+matplotlib
+imageio
+gdown 
